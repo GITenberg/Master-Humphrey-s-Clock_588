@@ -1,0 +1,29 @@
+_repo: Master-Humphrey-s-Clock_588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Vol.1. The old curiosity shop -- Vol. 2. Barnaby Rudge.
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gordon Riots, 1780 -- Fiction'
+- !lcsh 'Great Britain -- History -- 18th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Master Humphrey's Clock
+url: http://www.gutenberg.org/ebooks/588
